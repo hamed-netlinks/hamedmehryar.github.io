@@ -4,9 +4,7 @@ title: Hamed Mehryar # Title of your site
 email: hamed.cs@gmail.com # Your contant email
 
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is my website.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 
@@ -14,12 +12,11 @@ url: "http://yourdomain.com" # the base hostname & protocol for your site
 # Replace the word 'example' with your username if you want to include the icon in the left sidebar
 # Delete the word 'example' if you don't want to include the icon in the left sidebar
 
-twitter_username:     example  # Replace this with your Twitter username
-github_username:      example  # Replace this with your GitHub username
-linkedin_username:    example  # Replace this with your LinkedIn username
-google_plus_username: example  # Replace this with your Google+ username
-facebook_username:    example  # Replace this with your Facebook username
-dribbble_username:    example  # Replace this with your Dribbble username
+twitter_username:     hamedmehryar  # Replace this with your Twitter username
+github_username:      hamedmehryar  # Replace this with your GitHub username
+linkedin_username:    hamed-mehryar  # Replace this with your LinkedIn username
+google_plus_username: hamed.cs  # Replace this with your Google+ username
+facebook_username:    hamedmehryar  # Replace this with your Facebook username
 
 # Build settings
 markdown: kramdown
